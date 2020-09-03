@@ -8,8 +8,8 @@
 
     <TextView
         android:id="@+id/textview_second"
-        android:layout_width="7dp"
-        android:layout_height="12dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="Aku Iman"
         app:layout_constraintBottom_toTopOf="@id/button_second"
         app:layout_constraintEnd_toEndOf="parent"
